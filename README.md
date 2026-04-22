@@ -1,16 +1,16 @@
-# 🎓 SmartGradde System  
+# SmartGradde System  
 ### Sistem Informasi Pengelolaan Data & Nilai Mahasiswa
 
 ---
 
-## 📖 Deskripsi
+## Deskripsi
 SmartGradde System adalah aplikasi berbasis sistem informasi yang dirancang untuk membantu pengelolaan data mahasiswa dan nilai akademik secara terstruktur dan efisien.  
 
 Aplikasi ini mendukung **multi-user (Admin, Dosen, Mahasiswa)** dengan hak akses berbeda, sehingga mempermudah proses penginputan, pengolahan, hingga monitoring nilai mahasiswa.
 
 ---
 
-## 🎯 Tujuan
+## Tujuan
 - Mempermudah pengelolaan data mahasiswa  
 - Membantu dosen dalam menginput dan mengelola nilai  
 - Memberikan akses transparansi nilai kepada mahasiswa  
@@ -18,20 +18,20 @@ Aplikasi ini mendukung **multi-user (Admin, Dosen, Mahasiswa)** dengan hak akses
 
 ---
 
-## ⚙️ Fitur Utama
+## Fitur Utama
 
-### 👑 Admin
+### Admin
 - Kelola data mahasiswa & dosen  
 - Manajemen akun pengguna  
 - Reset password  
 
-### 👨‍🏫 Dosen
+### Dosen
 - Input nilai (Tugas, UTS, UAS)  
 - Edit & hapus nilai  
 - Filter nilai berdasarkan kategori  
 - Export nilai (PDF/Excel)  
 
-### 🎓 Mahasiswa
+### Mahasiswa
 - Registrasi akun  
 - Login  
 - Melihat nilai akademik  
@@ -39,23 +39,23 @@ Aplikasi ini mendukung **multi-user (Admin, Dosen, Mahasiswa)** dengan hak akses
 
 ---
 
-## 💡 Fitur Unggulan
-- 📊 Dashboard statistik sederhana  
-- 🔍 Filter nilai (Tugas, UTS, UAS)  
-- 📈 Perhitungan nilai akhir otomatis  
-- 🔒 Sistem login multi-user  
-- 📤 Export data nilai  
+## Fitur Unggulan
+-  Dashboard statistik sederhana  
+-  Filter nilai (Tugas, UTS, UAS)  
+-  Perhitungan nilai akhir otomatis  
+-  Sistem login multi-user  
+-  Export data nilai  
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - Java (NetBeans)  
 - MySQL  
 - GitHub (Version Control)  
 
 ---
 
-## ⏳ Timeline Pengembangan
+## Timeline Pengembangan
 - Minggu 1–2 : Analisis kebutuhan sistem  
 - Minggu 3–4 : Desain UI/UX & database  
 - Minggu 5–6 : Pengembangan fitur (Frontend & Backend)  
@@ -64,7 +64,7 @@ Aplikasi ini mendukung **multi-user (Admin, Dosen, Mahasiswa)** dengan hak akses
 
 ---
 
-## 👥 Tim Pengembang
+## Tim Pengembang
 
 - **Ardinata Agustian**  
   Project Manager & UI/UX Designer  
@@ -77,7 +77,7 @@ Aplikasi ini mendukung **multi-user (Admin, Dosen, Mahasiswa)** dengan hak akses
 
 ---
 
-## 🚀 Penutup
+## Penutup
 SmartGradde System diharapkan dapat menjadi solusi sederhana namun efektif dalam pengelolaan data dan nilai mahasiswa, serta menjadi media pembelajaran dalam pengembangan sistem informasi berbasis tim.
 
 ---
