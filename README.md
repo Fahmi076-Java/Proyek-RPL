@@ -67,10 +67,13 @@ Aplikasi ini mendukung **multi-user (Admin, Dosen, Mahasiswa)** dengan hak akses
 ## Tim Pengembang
 
 - **Ardinata Agustian**  
-  Project Manager & UI/UX Designer  
+  Project Manager & UI/UX Designer
+
+- **Andriansyah Bandi**
+  System Analyst
 
 - **Iqbal Fahmi Widodo**  
-  System Analyst & Backend Developer  
+  Backend Developer  
 
 - **Pauzi Eka Kusuma**  
   Frontend Developer  
